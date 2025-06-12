@@ -21,7 +21,7 @@ public class Areas_Emilio {
             System.out.println("1. Área de un círculo");
             System.out.println("2. Área de un cuadrado");
             System.out.println("3. Área de un triángulo");
-            System.out.println("4. Área de un rectángulo");
+            System.out.println("4. Área de un rectángulo   ");
             System.out.println("5. Salir");
             System.out.print("Elige una opción: ");
             opcion = sc.nextInt();
