@@ -5,4 +5,4 @@ figuras:
 ✓ Ingresa los valores (base, altura, radio, etc.).
 ✓ El programa muestra el resultado del cálculo.
 
-Se uso js en html
+Se uso NetBeans
